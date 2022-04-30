@@ -1,23 +1,17 @@
-# zzconvert-Blender-Link-Templates
-Developer Supported Templates for zzconvert
+# z64-PlayAs-Blender-Templates
+Updated player model templates for use in Ocarina of Time and Majora's Mask.
 
-Included are blender 2.79 zzconvert templates for the following Link objects:
+[Based on the original zzconvert templates.](https://github.com/hylian-modding/zzconvert-Blender-Link-Templates)
+
+Included are [Blender 2.81](https://www.blender.org/download/releases/2-81/) files for use with [z64convert](https://old.z64.me/tools/z64convert.html) and [z64playas](https://old.z64.me/tools/z64playas.html) for the following Link objects:
 
 ## Ocarina of Time:
- * Child Link (object_link_child)
- * Adult Link (object_link_boy)
+ * Child Link (object_link_child) [INCOMPLETE]
+ * Adult Link (object_link_boy) [INCOMPLETE]
 
 ## Majora's Mask
- * Child Link (object_link_child)
- * Deku Link (object_link_nuts)
- * Goron Link  (object_link_goron)
- * Zora Link (object_link_zora)
- * Fierce Deity Link (object_link_boy)
-
-These aren't meant to be perfect replacements for their respective objects, instead they were built for reference purposes
-for those wanting to modify or create their own play-as models. If any of these templates have particular issues you want addressed, please submit an issue ticket.
-
-## Notes
-Goron Link will not have a manifest until an objex2 tempalte is made for him, due to his 2nd skeleton being impossible to automate with zzplayas. Once we have an objex2 template, everything needed for Goron play-as in ROM will be available here. 
-
-[Alternatively, you can make a Goron play-as for use with Z64Online via ModLoader64.](https://github.com/hylian-modding/zzplayas_modloader_template/tree/z64o)
+ * Child Link (object_link_child) [INCOMPLETE]
+ * Deku Link (object_link_nuts) [INCOMPLETE]
+ * Goron Link  (object_link_goron) [INCOMPLETE]
+ * Zora Link (object_link_zora) [INCOMPLETE]
+ * Fierce Deity Link (object_link_boy) [INCOMPLETE]
